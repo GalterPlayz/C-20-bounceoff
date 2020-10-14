@@ -1,2 +1,2 @@
-# C-20-bounceoff
-C-20 collision
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
